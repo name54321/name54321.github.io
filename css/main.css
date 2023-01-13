@@ -1,0 +1,40 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Jan 6, 2023, 4:48:17 PM
+    Author     : icywo
+*/
+
+h2{
+    text-decoration-line: underline;
+}
+
+figure  {
+    display: inline-block;
+    text-align: center;
+    font-style: italic;
+    color: grey;
+    float:bottom;
+
+
+}
+.bimage {
+    border: 5px double #999;
+    /*border-style: double;
+    border-color: black;*/
+}
+
+footer{
+
+    border-top: solid #999;
+    text-align: center;
+    font-style: italic;
+    font-size: x-small;
+}
+
+
+
+
+
